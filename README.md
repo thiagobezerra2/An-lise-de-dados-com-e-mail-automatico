@@ -1,5 +1,13 @@
  <h1>Analise de dados com e-mail automatico</h1>
  
+ ## Tecnologias
+ 
+ Esse progeto foi desenvolvido com a seguinte tecnologia:
+ - Python
+ 
+ ##💻 Projeto
+ 
+ Essa analise de dados é  uma aplicação que irá fazer o calculo do faturamento das lojas e depois  irá fazer um envio autimático para cada setor necessário.
 # Passo a Passo 
 Passo 1: Importar a base de dados
 <br>
@@ -13,7 +21,7 @@ Passo 2: Calcular o faturamento de cada loja
 ![Capturar2](https://user-images.githubusercontent.com/65466044/107315028-a14f2000-6a74-11eb-814f-a6ac404674ad.PNG)
 <br>
 <br>
-Passo 3: Calcuçlar a quantidade de cada lojo
+Passo 3: Calcuçlar a quantidade de cada loja
 <br>
 <br>
 ![Capturar3](https://user-images.githubusercontent.com/65466044/107315105-cc397400-6a74-11eb-9ad4-c640d1d97c44.PNG)
